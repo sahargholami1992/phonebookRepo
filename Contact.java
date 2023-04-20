@@ -5,6 +5,7 @@ public class Contact {
     private String lastName;
     private String phoneNumber;
     private String address;
+    public String codePost
 
     // Duty!: Initializing FIELDS.
     public Contact(String firstName, String lastName, String phoneNumber, String address) {
